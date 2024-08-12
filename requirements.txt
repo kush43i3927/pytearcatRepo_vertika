@@ -1,4 +1,3 @@
 numpy>=1.17.2
-jupyter>=1.0.0
 sympy>=1.22.0
 pytearcat
